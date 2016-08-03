@@ -1,0 +1,11 @@
+#timer {
+  height: 20em;
+  width: 20em;
+  border-radius: 50%;
+}
+
+body {
+  background: #373639;
+  color: #DEE2D6;
+}
+
