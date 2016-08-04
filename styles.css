@@ -5,7 +5,10 @@
 }
 
 body {
-  background: #373639;
-  color: #DEE2D6;
+  background: #342E37;
+  color: #BBD5ED;
 }
 
+h1, p {
+  color: #BBD5ED;
+}
